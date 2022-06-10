@@ -87,7 +87,6 @@ def copy_to_db(pd_df, cnx, chunk):
 
 
 def task1():
-    logging.basicConfig(filename='logs.log', encoding='utf-8', level=logging.INFO)
     create_sample_dataframe(10000)
     pd_df = read_from_csv_chunks(10000)
     postgres_address = 'localhost'
@@ -361,6 +360,7 @@ def sqltasks():
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
+    logging.basicConfig(filename='logs.log', encoding='utf-8', level=logging.INFO)
     task1()
     task2()
     sqltasks()
