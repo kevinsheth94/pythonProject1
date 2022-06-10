@@ -1,0 +1,90 @@
+INFO:root:Sample Dataframe creation Starting
+INFO:root:Sample Dataframe and csv created
+INFO:root:Import Starting
+INFO:root:Sample Dataframe imported
+INFO:root:Connecting to the PostgreSQL...........
+INFO:root:Connection successfully..................
+INFO:root:Starting copying to DB
+INFO:root:Copy to DB Done
+INFO:root:Sample Dataframe creation Starting
+INFO:root:Sample Dataframe and csv created
+INFO:root:Import Starting
+INFO:root:Sample Dataframe imported
+INFO:root:Connecting to the PostgreSQL...........
+INFO:root:Connection successfully..................
+INFO:root:Starting copying to DB
+INFO:root:Copy to DB Done
+INFO:root:Sample Dataframe creation Starting
+INFO:root:Sample Dataframe and csv created
+INFO:root:Import Starting
+INFO:root:Sample Dataframe imported
+INFO:root:Connecting to the PostgreSQL...........
+INFO:root:Connection successfully..................
+INFO:root:Starting copying to DB
+INFO:root:Copy to DB Done
+INFO:root:Sample Dataframe creation Starting
+INFO:root:Sample Dataframe and csv created
+INFO:root:Import Starting
+INFO:root:Sample Dataframe imported
+INFO:root:Connecting to the PostgreSQL...........
+INFO:root:Connection successfully..................
+INFO:root:Starting copying to DB
+INFO:root:Copy to DB Done
+INFO:root:Sample Dataframe creation Starting
+INFO:root:Sample Dataframe and csv created
+INFO:root:Import Starting
+INFO:root:Sample Dataframe imported
+INFO:root:Connecting to the PostgreSQL...........
+INFO:root:Connection successfully..................
+INFO:root:Starting copying to DB
+INFO:root:Copy to DB Done
+INFO:root:Sample Dataframe creation Starting
+INFO:root:Sample Dataframe and csv created
+INFO:root:Import Starting
+INFO:root:Sample Dataframe imported
+INFO:root:Connecting to the PostgreSQL...........
+INFO:root:Connection successfully..................
+INFO:root:Starting copying to DB
+INFO:root:Copy to DB Done
+INFO:root:Sample Dataframe creation Starting
+INFO:root:Sample Dataframe and csv created
+INFO:root:Import Starting
+INFO:root:Sample Dataframe imported
+INFO:root:Connecting to the PostgreSQL...........
+INFO:root:Connection successfully..................
+INFO:root:Starting copying to DB
+INFO:root:Copy to DB Done
+INFO:root:VISITS table created successfully........
+INFO:root:CUSTOMER table created successfully........
+INFO:root:CITY table created successfully........
+INFO:root:Data inserted in VISITS
+INFO:root:Data inserted in CUSTOMER
+INFO:root:Data inserted in CITY
+INFO:root:Sample Dataframe creation Starting
+INFO:root:Sample Dataframe and csv created
+INFO:root:Import Starting
+INFO:root:Sample Dataframe imported
+INFO:root:Connecting to the PostgreSQL...........
+INFO:root:Connection successfully..................
+INFO:root:Starting copying to DB
+INFO:root:Copy to DB Done
+INFO:root:VISITS table created successfully........
+INFO:root:CUSTOMER table created successfully........
+INFO:root:CITY table created successfully........
+INFO:root:Data inserted in VISITS
+INFO:root:Data inserted in CUSTOMER
+INFO:root:Data inserted in CITY
+INFO:root:Sample Dataframe creation Starting
+INFO:root:Sample Dataframe and csv created
+INFO:root:Import Starting
+INFO:root:Sample Dataframe imported
+INFO:root:Connecting to the PostgreSQL...........
+INFO:root:Connection successfully..................
+INFO:root:Starting copying to DB
+INFO:root:Copy to DB Done
+INFO:root:VISITS table created successfully........
+INFO:root:CUSTOMER table created successfully........
+INFO:root:CITY table created successfully........
+INFO:root:Data inserted in VISITS
+INFO:root:Data inserted in CUSTOMER
+INFO:root:Data inserted in CITY
