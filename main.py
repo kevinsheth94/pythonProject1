@@ -79,7 +79,7 @@ def copy_to_db(pd_df, cnx, chunk):
         # This can be adjusted too similar to the import from csv to improve performance time
         # or to adjust for ram restrictions
         logging.info('Starting copying to DB')
-        pd_df.to_sql('public.test_od', con=cnx, if_exists='replace', index=False, chunksize=chunk)
+        pd_df.to_sql('test_od', con=cnx, if_exists='replace', index=False, chunksize=chunk)
         logging.info('Copy to DB Done')
     except OperationalError as err:
         # passing exception to function
